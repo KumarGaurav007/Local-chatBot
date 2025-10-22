@@ -1,0 +1,4 @@
+flask==2.3.2
+transformers==4.45.0
+torch  # or "torch>=1.12" (install prebuilt wheel according to your system)
+sentencepiece
