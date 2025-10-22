@@ -10,12 +10,8 @@ This chatbot simulates natural human-like conversations and provides an attracti
 This project demonstrates the creation of a **local conversational AI chatbot** that can process user input and generate contextually appropriate responses using a pretrained language model.  
 The backend is powered by **Python and Flask**, and the frontend is a fully responsive **HTML, CSS, and JavaScript** interface with animations for a better user experience.
 
----
 
 ![ChatBot Banner](banner.png)  
-*A simple and interactive ChatBot application that provides real-time weather updates for any city in the world.*
-
-[**Checkout Local ChatBot Live**](https://weather-app-gaurav.vercel.app/)
 
 ---
 
@@ -30,22 +26,7 @@ The backend is powered by **Python and Flask**, and the frontend is a fully resp
 
 ---
 
-## 🏗️ System Architecture
 
-┌──────────────────────────────┐
-│ Frontend                     |
-│ HTML • CSS • JavaScript      │
-│ ↓ (Fetch API)                │
-├──────────────────────────────┤
-│ Backend                      │
-│ Flask (Python)               │
-│ ↓                            │
-│ Hugging Face DialoGPT Model  │
-│ (Local Response Generation)  │
-└──────────────────────────────┘
-
-
----
 
 ## ⚙️ Tech Stack
 
@@ -106,10 +87,10 @@ Navigate to 👉 http://127.0.0.1:5000
 
 **🧑‍💻 Author**
 
-Gaurav Kumar
-🎓 B.Tech in Computer Science & Engineering
-💡 Passionate about Artificial Intelligence, Software Development, and Full Stack Projects
-📧 LinkedIn: [Gaurav Kumar](https://www.linkedin.com/in/gaurav-kumar-25-oct?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW7%2FB5onwS4yNaZXl9gxzoA%3D%3D)
+Gaurav Kumar<br>
+🎓 B.Tech in Computer Science & Engineering<br>
+💡 Passionate about Artificial Intelligence, Software Development, and Full Stack Projects<br>
+📧 LinkedIn: [Gaurav Kumar](https://www.linkedin.com/in/gaurav-kumar-25-oct?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW7%2FB5onwS4yNaZXl9gxzoA%3D%3D)<br>
 GitHub: [KumarGaurav007](https://github.com/KumarGaurav007)
 
 📝 License
